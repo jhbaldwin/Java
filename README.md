@@ -1,2 +1,2 @@
-# JavaSongHomework
-This is a code that was assigned to the class as a Homework Assignment. We each had to remove redundancy and add a spin to the last stanza.
+# JavaHomework
+These are the codes I created in COMP 163-002 (Intro to Computer Programming) for homework.
