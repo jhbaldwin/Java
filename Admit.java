@@ -1,3 +1,4 @@
+//This program compares two applicants scores in oreder to see who is the most promising candidate for the job.
 import java.util.*;
 
 public class Admit {
